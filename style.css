@@ -1,0 +1,48 @@
+body{
+    background: green;
+}
+.card{
+    text-align: center;
+    
+    background: white;
+    margin: auto;
+    height: 400px;
+    width: 250px;
+    padding: 20px;
+    margin-top: auto;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 5px;
+    position: relative;}
+
+#oneicon {
+        
+        display: flex;
+        justify-content: start;
+        align-items: start;
+        height: 25%;
+        font-size: 100px;
+    }
+#twoicon{
+    
+        display: flex;
+        justify-content: end;
+        align-items: end;
+        height: 25%;
+        font-size: 100px;
+}
+
+#number{
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50%;
+        font-size: 80px;
+    
+}
+
+#buttom{
+    background-color: bisque;
+    text-align: center;
+}
